@@ -1,0 +1,14 @@
+layout_spectrum: 0.27392169856466353
+typography_spectrum: 0.7045419276691973
+color:
+  brandStrength: 0.7297716399189085
+  lightness: 0.890059094876051
+  saturation: 0.7151035403367132
+  rhythmicContrast: 0.5546515271998942
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: FocalPoint
